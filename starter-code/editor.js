@@ -23,4 +23,8 @@ const keyMap = {
     html: "h3",
     enter: 1,
   },
+  "#####": {
+    html: "h4",
+    enter: 1,
+  },
 };
